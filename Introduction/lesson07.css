@@ -1,0 +1,53 @@
+.image-7a {
+    width: 200px;
+    border-radius: 10px;
+}
+.image-7b {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+.image-7c {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+}
+.search-bar-7d {
+    font-size: 15px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.search-bar-7e {
+    font-size: 15px;
+    width: 350px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.email-7f {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(100, 100, 100);
+}
+.text-box-7f {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
