@@ -1,0 +1,224 @@
+.div-9a {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.div-9b {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.div-9c {
+    font-family: Arial;
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.button-9c {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.div-9d {
+    background-color: rgb(33, 33, 33);
+    font-family: Arial;
+    width: 350px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.title-9d {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sub-title-9d {
+    color: rgb(160, 160, 160);
+}
+.div-9e {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    width: 500px;
+    margin-bottom: 20px;
+
+}
+.profile-picture-9e {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.text-9e {
+    font-size: 15px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.tweet-button-9e {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.div-9f {
+    font-family: Arial;
+    width: 150px;
+    height: 250px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0;
+}
+.profile-picture-9f {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 1px;
+}
+.name-9f {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.mutual-friends-9f {
+    font-size: 13px;
+    color: rgb(100, 100, 100);
+    margin-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.add-friend-button-9f {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.div-9g {
+    font-family: Arial;
+    width: 150px;
+    height: 250px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0;
+    margin-right: 10px;
+    display: inline-block;
+}
+.profile-picture-9g {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 1px;
+}
+.name-9g {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.mutual-friends-9g {
+    font-size: 13px;
+    color: rgb(100, 100, 100);
+    margin-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.add-friend-button-9g {
+    background-color: rgb(24, 119, 242);
+    font-size: 15px;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.div-9h-main {
+    font-family: Arial;
+    width: 500px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.div-9h {
+    text-align: center;
+    
+}
+.logo-9h {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text-9h {
+    border: none;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    width: 400px;
+    margin-bottom: 30px;
+}
+.button-9h {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 10px;
+}
