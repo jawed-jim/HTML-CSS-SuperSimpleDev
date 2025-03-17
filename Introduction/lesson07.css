@@ -48,6 +48,64 @@
     color: rgb(100, 100, 100);
 }
 .text-box-7f {
+    width: 350px;
+    height: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(100, 100, 100);
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: 0;
     margin-bottom: 10px;
+}
+.disclaimer-7f {
+    font-family: Arial;
+    font-size: 13px;
+    color: rgb(100, 100, 100);
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.join-button-7f {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    font-family: Arial;
+    font-size: 20;
+    width: 350px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+.profile-picture-7g {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.text-box-7g {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: none;
+    width: 250px;
+    vertical-align: middle;
+}
+.tweet-button-7g {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    vertical-align: middle;
+    cursor: pointer;
 }

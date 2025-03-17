@@ -1,0 +1,128 @@
+input {
+    display: block;
+    margin-bottom: 5px;
+}
+.text-8b {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+button {
+    cursor: pointer;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.google-8c {
+    display: block;
+    width: 150px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.placeholder-text-8c {
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    width: 400px;
+    border-radius: 30px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
+.first-name-8d {
+    display: inline;
+    font-size: 15px;
+    width: 132.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    margin-bottom: 10px;
+    
+}
+.last-name-8d {
+    display: inline;
+    font-size: 15px;
+    width: 132.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    margin-bottom: 10px;
+    
+}
+.email-8d {
+    font-size: 15px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    margin-bottom: 10px;
+}
+.button-8d {
+    background-color: rgb(47, 127, 231);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 330px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.title-8e {
+    font-family: Arial;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.pickup-location-8e {
+    width: 250px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.destination-location-8e {
+    width: 250px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+}
+.request-button-8e {
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 10px;
+}
+.schedule-button-8e {
+    background-color: rgb(240, 240, 240);
+    border: none;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
