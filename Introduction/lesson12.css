@@ -1,0 +1,120 @@
+.flexbox-12a {
+    display: flex;
+    flex-direction: row;
+}
+.col1-12a {
+    background-color: lightblue;
+    width: 200px;
+}
+.col2-12a {
+    background-color: lightpink;
+    width: 75px;
+}
+.flexbox-12b {
+    display: flex;
+    flex-direction: row;
+}
+.col1-12b {
+    background-color: lightblue;
+    width: 50px;
+}
+.col2-12b {
+    background-color: lightpink;
+    flex: 1;
+}
+.col3-12b {
+    background-color: lightblue;
+    width: 75px;
+}
+.flexbox-12c {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.col1-12c, .col2-12c, .col3-12c, .col4-12c {
+    background-color: lightpink;
+}
+.flexbox-12d {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    height: 50px;
+    align-items: center;
+}
+.col1-12d, .col2-12d {
+    background-color: lightpink;
+}
+div {
+    font-family: Arial;
+}
+.container-12e {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    border-radius: 5px;
+    width: 300;
+}
+.flexbox-12e {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.notifications-12e {
+    background-color: rgb(49, 109, 245);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.flexbox-12f {
+    font-family: Arial;
+    background-color: rgb(120, 82, 178);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.home-link-12f {
+    font-weight: bold;
+    cursor: pointer;
+}
+.text-box-12f {
+    width: 500px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 20px;   
+}
+.download-button-12f {
+    background-color: rgb(120, 82, 178);
+    color: white;
+    font-size: 15px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+}
