@@ -1,0 +1,159 @@
+.flexbox-13a {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+.col1-13a {
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.item1-13a {
+    background-color: black;
+    color: white;
+}
+.col2-13a {
+    background-color: lightblue;
+    width: 200px;
+}
+.flexbox-13b {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+.col1-13b {
+    background-color: lightpink;
+    width: 100px;
+}
+.col2-13b {
+    background-color: lightblue;
+    width: 200px;
+}
+.row2-13b {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.row2-item-13b {
+    background-color: black;
+    color: white;
+}
+div {
+    font-family: Arial;
+}
+.container-13d {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 400px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.inbox-label-13d {
+    font-size: 15px;
+    color: rgb(120, 120, 120);
+    margin-bottom: 20px;
+}
+.email-13d {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.sender-picture-container-13d {
+    margin-right: 10px;
+}
+.sender-picture-13d {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+.email-content-13d {
+    flex: 1;
+}
+.email-header-13d {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.sender-name-13d {
+    font-size: 18px;
+    font-weight: bold;
+}
+.sent-time-13d {
+    font-size: 14px;
+    color: rgb(120, 120, 120);
+}
+.subject-13d {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.message-13d {
+    color: rgb(120, 120, 120);
+}
+.container-13e {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 400px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.inbox-label-13e {
+    font-size: 15px;
+    color: rgb(120, 120, 120);
+    margin-bottom: 20px;
+}
+.email-13e {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.sender-picture-container-13e {
+    margin-right: 10px;
+}
+
+.sender-picture-13e {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+.email-content-13e {
+    flex: 1;
+}
+.email-header-13e {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.sender-name-13e {
+    font-size: 18px;
+    font-weight: bold;
+}
+.sent-time-13e {
+    font-size: 14px;
+    color: rgb(120, 120, 120);
+}
+.subject-13e {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.message-13e {
+    color: rgb(120, 120, 120);
+}
